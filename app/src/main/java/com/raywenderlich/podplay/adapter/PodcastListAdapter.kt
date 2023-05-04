@@ -6,7 +6,7 @@ import android.view.ViewGroup
 import android.widget.ImageView
 import android.widget.TextView
 import androidx.recyclerview.widget.RecyclerView
-import com.bumptech.glide.Glide
+import com.bumptech.glide.*
 import com.raywenderlich.podplay.databinding.SearchItemBinding
 import com.raywenderlich.podplay.viewmodel.SearchViewModel
 
